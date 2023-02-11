@@ -6,6 +6,10 @@
     "email": "d.darkterminal@gmail.com",
     "url": "https://github.com/darktermnal"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darkterminal/vite-react-tailwind-boilerplate"
+  },
   "version": "1.0.0",
   "type": "module",
   "bin": "./bin/cli.js",
