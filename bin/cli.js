@@ -13,7 +13,7 @@ const runCommand = command => {
 }
 
 const repoName = process.argv[2]
-const gitCheckoutCommand = `git clone --depth 1 https://github.com/darkterminal/express-api-starter.git ${repoName}`
+const gitCheckoutCommand = `git clone --depth 1 https://github.com/darkterminal/vite-react-tailwind-boilerplate.git ${repoName}`
 const installDepsCommand = `cd ${repoName} && npm install`
 const removeBinDirectory = `cd ${repoName} && rm -r bin`
 
