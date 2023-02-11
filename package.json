@@ -1,5 +1,5 @@
 {
-  "name": "vite-react-tailwind-boilerplate",
+  "name": "@darkterminal/vite-react-tailwind-boilerplate",
   "description": "Vite React TailwindCSS in Vanilla Javascript (.js)",
   "author": {
     "name": "Imam Ali Mustofa",
@@ -9,6 +9,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "bin": "./bin/cli.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
