@@ -4,11 +4,5 @@ Starter project Vite React TailwindCSS in Vanilla Javascript (`.js`)
 
 ## Getting Started
 ```bash
-npx create @darkterminal/vite-react-tailwind-boilerplate
-```
-
-## Running project
-```bash
-npm install
-npm run dev
+npx @darkterminal/vite-react-tailwind-boilerplate your-project-name
 ```
