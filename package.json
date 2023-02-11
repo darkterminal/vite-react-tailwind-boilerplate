@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/darkterminal/vite-react-tailwind-boilerplate"
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "bin": "./bin/cli.js",
   "scripts": {
     "dev": "vite",
