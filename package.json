@@ -6,7 +6,6 @@
     "email": "d.darkterminal@gmail.com",
     "url": "https://github.com/darktermnal"
   },
-  "private": true,
   "version": "1.0.0",
   "type": "module",
   "bin": "./bin/cli.js",
