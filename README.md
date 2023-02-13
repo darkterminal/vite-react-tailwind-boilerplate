@@ -8,4 +8,4 @@ npx @darkterminal/vite-react-tailwind-boilerplate your-project-name
 ```
 
 ## Dependencies
-- (https://github.com/streamich/react-use)[react-use] - Collection of essential React Hooks
+- [react-use](https://github.com/streamich/react-use) - Collection of essential React Hooks
